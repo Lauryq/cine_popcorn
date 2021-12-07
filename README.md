@@ -1,27 +1,27 @@
-Projet_film
+# Projet_film
 
 Consigne du projet :
 
     Le but de ce projet est de créer un annuaire de film de type “allociné”
-    Rendu du projet : 12 juillet 2021
-
-Etape 1 :
-
-Désigner un master (unique à toute la promo) sur github qui créera un csv avec :
-
+    Rendu du projet : 8 juillet 2021
+    
+Etape 1 :     
+    
+    Désigner un master (unique à toute la promo) sur github qui créera un csv avec :
+    
     ● le titre
     ● la description
     ● l’année de sortie
     ● le genre
     ● le réalisateur    
 
-Chacun doit Forker le projet et ajouter 3 films avec une pull request
+    Chacun doit Forker le projet et ajouter 3 films avec une pull request
 
 Etape 2:
 
-Développement du site en MVC
+    Développement du site en MVC
 
-Langages utilisés :
+Langages utilisés : 
 
     HTML
     CSS3
@@ -37,27 +37,28 @@ Outils utilisés :
     Trello pour attribuer les tâches 
     Github pour gerer les fichiers
     Framework Bootstrap
+    
 
 Collaborateurs :
 
     Bryan PERGAUD Dev front → 
-
+    
     -Réaliser les wireframes
     -Réaliser les maquettes
     -Réaliser la charte graphique
     -UI UX Design
     -Intégrer
-
-
+    
+    
     Laury QUARTO Dev back → 
-
+    
     -S’occuper des requêtes avec la base de données
     -S’occuper du MCD
     -S’occuper du controller 
-
-
+    
+    
     Jonathan JUILLERAT Chef de projet → 
-
+    
     -S’occuper du github du projet
     -Etablir une convention de codage
     -Etablir une organisation de dossiers

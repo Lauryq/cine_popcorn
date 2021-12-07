@@ -1,0 +1,35 @@
+/* Error 404 style  */
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+body{
+  background-image: url(../../images/bg_unsplash.jpg);
+}
+
+/* @keyframes roundaction {
+  0% { left: 0;
+       top: 0; 
+  }
+  
+  25% { left: 0;
+        top: calc(100% - 75px);
+  }
+  
+  50% {
+    top: calc(100% - 75px);
+    left: calc(100% - 75px); 
+  }
+  
+  75% {
+    left: calc(100% - 75px);
+    top: 0;
+  }
+  
+  100% {
+    left: 0; 
+    top: 0;
+  }
+} */
